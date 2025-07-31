@@ -1,6 +1,6 @@
-# WaveFSL
+# WaveFSL: Wave Interference-Based Meta-Learning for Few-Shot Cross-Modality Traffic Forecasting
 
-WaveFSL: Wave Interference-Based Meta-Learning for Few-Shot Cross-Modality Traffic Forecasting
+WaveFSL is a novel deep learning model for traffic flow prediction that leverages wave-based representations and meta-learning to achieve superior performance with minimal training data. The model conceptualises traffic flow as a combination of wave patterns (capturing natural rhythms like rush hours and congestion waves), processes these through sophisticated wave interference mechanisms, and employs few-shot learning techniques to rapidly adapt to new road networks with just a few days of target data. Built on Meta-Agnostic Meta-Learning (MAML) principles, WaveFSL features multi-scale temporal processing, wave-aware attention mechanisms, and dynamic input projection to handle different network sizes, making it capable of learning general traffic patterns from multiple source datasets during meta-training and then fine-tuning quickly for specific locations. The model addresses key limitations of traditional traffic prediction approaches by combining the physical intuition of wave-based modelling with the adaptability of meta-learning, resulting in a system that can effectively predict traffic flow across diverse urban environments while requiring significantly fewer location-specific training data than conventional methods.
 
 ## Model Versions
 
