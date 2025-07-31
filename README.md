@@ -1,6 +1,6 @@
 # Wave Traffic Flow Prediction Model
 
-A deep learning model that predicts traffic flow patterns using wave-based representations and meta-learning techniques.
+WaveFSL: Wave Interference-Based Meta-Learning for Few-Shot Cross-Modality Traffic Forecasting
 
 ## Model Versions
 
