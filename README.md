@@ -1,4 +1,4 @@
-# Wave Traffic Flow Prediction Model
+# WaveFSL
 
 WaveFSL: Wave Interference-Based Meta-Learning for Few-Shot Cross-Modality Traffic Forecasting
 
