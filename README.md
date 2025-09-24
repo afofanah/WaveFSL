@@ -130,7 +130,10 @@ If you use this model in your research, please cite our work:
 
 @article{wave_traffic_prediction,
   title={WaveFSL: Wave Interference-Based Meta-Learning for Few-Shot Cross-Modality Traffic Forecasting},
-  author={AJF},
-  journal={[Journal Name]},
-  year={2024}
+  author={Abdul Joseph Fofanah, Lian Wen, David Chen, Shaoyang Zhang, and Alpha Alimamy Kamara
+},
+  journal={The 23rd Australasian Data Science and Machine Learning Conference (AusDM25)
+},
+
+  year={2025}
 }
